@@ -115,7 +115,7 @@ const TaxCalculator = () => {
                     <div className="flex justify-between">
                         <div className="flex space-x-7">
                             <div className="flex items-center py-4">
-                                <span className="font-bold text-xl text-gray-800">TaxCalc</span>
+                                <span className="font-bold text-xl text-gray-800">Return Rightc</span>
                             </div>
                             <div className="flex items-center space-x-1">
                                 <button 
